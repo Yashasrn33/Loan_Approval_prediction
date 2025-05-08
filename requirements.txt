@@ -1,8 +1,11 @@
-
-numpy==1.24.3
+# Match the exact version of numpy used to save the model
+numpy==1.22.4
+# Other dependencies
+flask==2.3.2
 pandas==2.0.1
-matplotlib==3.7.1
-seaborn==0.12.2
 scikit-learn==1.2.2
 joblib==1.2.0
+matplotlib==3.7.1
+seaborn==0.12.2
+gunicorn==20.1.0
 colorama==0.4.6
