@@ -1,4 +1,4 @@
-# Loan Prediction System
+# Loan Approval Prediction System
 
 A comprehensive machine learning system for predicting loan approval status.
 
@@ -255,6 +255,12 @@ For production deployments:
 3. Consider adding rate limiting to prevent abuse
 4. Remove debug mode in Flask by setting `debug=False`
 5. Regularly update dependencies to patch security vulnerabilities
+
+<img width="1097" alt="Screenshot 2025-05-08 at 1 36 01 AM" src="https://github.com/user-attachments/assets/9176a34b-3f3f-4298-8f5d-3962c7b29742" />
+
+<img width="1051" alt="Screenshot 2025-05-08 at 1 36 20 AM" src="https://github.com/user-attachments/assets/c44947e2-7f96-40f2-a9d7-e5b6c5aac7a7" />
+
+<img width="963" alt="Screenshot 2025-05-08 at 1 36 33 AM" src="https://github.com/user-attachments/assets/a43eb4c0-f5a3-4670-b763-44d3cf87cc1a" />
 
 ## Future Enhancements
 
