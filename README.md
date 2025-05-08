@@ -52,8 +52,8 @@ loan_prediction_system/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/loan-prediction-system.git
-   cd loan-prediction-system
+   git clone https://github.com/Yashasrn33/Loan_Approval_prediction.git
+   cd Loan_Approval_prediction
    ```
 
 2. Create a virtual environment and install dependencies:
